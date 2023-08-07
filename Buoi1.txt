@@ -1,0 +1,11 @@
+Phát triển ứng dụng thiết bị di động
+1. Mục tiêu
+	Cung cấp cho sv kiến thức để có thể xây dựng ứng dụng trên hệ điều hành Google Android
+2. Công cụ cài đặt
+- JDK
+- Android Studio
+- Máy ảo/ thiết bị thật
+3. Tài liệu học tập
+	Android Tutorial/ developer.android.com/ geeksforgeeks
+	
+	
